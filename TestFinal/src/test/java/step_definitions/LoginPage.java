@@ -26,7 +26,7 @@ public class LoginPage {
         Reporter.addStepLog("My test addStepLog message");
         Reporter.addScenarioLog("This is scenario log");
 */		
-		driver.get("https://ism-qa.rrd.com/retailism/");
+		driver.get("");
 	    
 	}
 
